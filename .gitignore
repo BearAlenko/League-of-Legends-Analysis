@@ -1,0 +1,8 @@
+
+archive/match_data_version1.csv
+archive/match_data_version1.pickle
+*.pickle
+archive/match_loser_data_version1.csv
+archive/match_winner_data_version1.csv
+archive/challenger_match.csv
+archive/challenger_match_V2.csv
